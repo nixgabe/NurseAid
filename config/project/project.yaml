@@ -1,0 +1,22 @@
+dateModified: 1725630374
+email:
+  fromEmail: nixgabriel92@gmail.com
+  fromName: 'Nurseaid Ddev'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0804c3c7-2928-4b84-8cde-68440e384128: 'Nurseaid Ddev' # Nurseaid Ddev
+    bec9c00b-76dc-474b-8bf7-b852e0d454a6: 'Nurseaid Ddev' # Nurseaid Ddev
+    f087f975-3230-405b-ac88-b73630e8a11c: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'Nurseaid Ddev'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

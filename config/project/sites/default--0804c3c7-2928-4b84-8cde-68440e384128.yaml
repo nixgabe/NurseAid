@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: 'Nurseaid Ddev'
+primary: true
+siteGroup: bec9c00b-76dc-474b-8bf7-b852e0d454a6 # Nurseaid Ddev
+sortOrder: 1
